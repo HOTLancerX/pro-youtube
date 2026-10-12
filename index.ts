@@ -21,7 +21,7 @@ export function register() {
             label: "Pro YouTube",
             icon: "logos:youtube-icon",
             slug: "pro-youtube",
-            parent: "",
+            parent: "settings",
             position: 26,
         },
     ], PLUGINS.nx);
