@@ -490,6 +490,7 @@ export default function ProYoutubeAdminPage() {
                             <option value={200}>200</option>
                             <option value={300}>300 (Default)</option>
                             <option value={500}>500</option>
+                            <option value={1000}>1000</option>
                         </select>
                     </div>
 
